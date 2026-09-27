@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="widget_background_light">#FFFFFFFF</color>
+    <color name="widget_background_dark">#FF1F1F1F</color>
+    <color name="widget_text_light">#FF000000</color>
+    <color name="widget_text_dark">#FFFFFFFF</color>
+    <color name="widget_button_background_light">#FF1565C0</color>
+    <color name="widget_button_background_light_pressed">#FF0D47A1</color>
+    <color name="widget_button_background_dark">#FF1E88E5</color>
+    <color name="widget_button_background_dark_pressed">#FF1565C0</color>
+    <color name="widget_button_background_feedback_light">#FF8E24AA</color>
+    <color name="widget_button_background_feedback_light_pressed">#FF6A1B9A</color>
+    <color name="widget_button_background_feedback_dark">#FFBA68C8</color>
+    <color name="widget_button_background_feedback_dark_pressed">#FF9C27B0</color>
+    <color name="widget_button_background_success_light">#FF2E7D32</color>
+    <color name="widget_button_background_success_light_pressed">#FF1B5E20</color>
+    <color name="widget_button_background_success_dark">#FF43A047</color>
+    <color name="widget_button_background_success_dark_pressed">#FF2E7D32</color>
+    <color name="widget_button_text">#FFFFFFFF</color>
+    <color name="widget_button_feedback_text">#FFFFFFFF</color>
+    <color name="primary">#FF1E88E5</color>
+</resources>

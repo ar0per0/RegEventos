@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">RegEventos</string>
+
+    <string name="widget_register_button">Registrar</string>
+    <string name="widget_register_confirmed">¡Registrado!</string>
+    <string name="widget_missing_id_error">No se ha podido usar el widget. Vuelve a colocarlo.</string>
+    <string name="widget_missing_label_error">Configura el widget antes de registrar.</string>
+    <string name="widget_log_saved_message">Registro "%1$s" guardado</string>
+    <string name="widget_confirmation_channel_name">Confirmaciones de widget</string>
+    <string name="widget_confirmation_channel_description">Avisos cuando se usa el widget</string>
+    <string name="default_action_label">Acción</string>
+
+    <string name="theme_preference_label">Preferencia de tema</string>
+    <string name="theme_system">Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+
+    <string name="language_preference_label">Idioma de la app</string>
+    <string name="language_system">System</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Inglés</string>
+
+    <string name="cd_settings">Configuración</string>
+    <string name="settings">Configuración</string>
+    <string name="hide_settings">Ocultar configuración</string>
+    <string name="widget_reboot_notice">En algunos dispositivos el widget solo se aplica tras reiniciar el teléfono.</string>
+    <string name="do_not_show_again">No volver a mostrar</string>
+
+    <string name="empty_actions_hint">Agrega un texto para crear tu primer botón o widget</string>
+    <string name="button_settings_title">Configuración de botones</string>
+    <string name="button_text_label">Texto del botón</string>
+    <string name="text_fields_settings_title">Configuración de campos de texto</string>
+    <string name="field_name_label">Nombre del campo</string>
+    <string name="create">Crear</string>
+
+    <string name="export_logs">Exportar registros</string>
+    <string name="delete_logs">Eliminar registros</string>
+    <string name="no_logs_to_export">No hay registros para exportar</string>
+    <string name="error_no_share_app">No se encontró una app para compartir los registros</string>
+    <string name="error_open_export_menu">No se pudo abrir el menú para exportar</string>
+
+    <string name="delete_all_logs_title">Eliminar todos los registros</string>
+    <string name="delete_all_logs_message">Se borrarán todos los archivos de registros. ¿Deseas continuar?</string>
+    <string name="logs_deleted_success">Registros eliminados correctamente</string>
+    <string name="logs_deleted_error">No se pudieron eliminar todos los registros</string>
+    <string name="yes_delete">Sí, eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="save">Guardar</string>
+
+    <string name="current_buttons_title">Botones actuales</string>
+    <string name="current_text_fields_title">Campos de texto actuales</string>
+    <string name="cd_move_up">Mover arriba</string>
+    <string name="cd_move_down">Mover abajo</string>
+
+    <string name="quick_actions_title">Acciones rápidas</string>
+    <string name="text_fields_title">Campos de texto</string>
+    <string name="cd_log">Registrar</string>
+    <string name="error_complete_field_before_logging">Completa el campo antes de registrar</string>
+
+    <string name="event_log_title">Registro de eventos</string>
+    <string name="all">Todos</string>
+    <string name="edit_selected_event_title">Editar evento seleccionado</string>
+    <string name="text">Texto</string>
+    <string name="time_format_label">Hora (HH:mm:ss)</string>
+    <string name="description">Descripción</string>
+    <string name="error_text_empty">El texto no puede estar vacío</string>
+    <string name="error_invalid_time_format">Formato de hora inválido (HH:mm:ss)</string>
+    <string name="log_entry_label_time">%1$s a las %2$s</string>
+    <string name="log_entry_description">   Descripción: %1$s</string>
+
+    <string name="widget_text_label">Texto del widget</string>
+    <string name="widget_text_hint">Ej: Agua</string>
+    <string name="use_existing_button">Usar un botón existente</string>
+    <string name="create_button_for_widget_hint">Crea al menos un botón para seleccionarlo en el widget</string>
+</resources>
