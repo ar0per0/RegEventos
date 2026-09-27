@@ -1,0 +1,22 @@
+RegEventos is an Android application designed to quickly and easily record
+actions that occur during an event, activity or work session.
+
+You can create custom buttons for the actions you use most often.
+When you tap one of these buttons, the action is automatically recorded
+together with the current date and time.
+
+You can also create custom text fields to add additional information
+to the log.
+
+Main features:
+
+• Customizable quick actions
+• Custom text fields
+• Chronological event history
+• Edit and delete records
+• Export data
+• Home screen widget
+• Light, dark or system theme
+• Available in Spanish and English
+
+All data is stored locally on the device and no user account is required.

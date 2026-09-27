@@ -1,0 +1,18 @@
+RegEventos es una aplicación Android diseñada para registrar de forma rápida y sencilla acciones que ocurren durante un evento, actividad o jornada.
+
+Puedes crear botones personalizados para las acciones que realizas habitualmente. Al pulsar uno de estos botones, la acción queda registrada automáticamente junto con la fecha y hora actuales.
+
+También puedes crear campos de texto personalizados para añadir información adicional al registro.
+
+Características principales:
+
+• Acciones rápidas personalizables
+• Campos de texto personalizados
+• Historial cronológico de eventos
+• Edición y eliminación de registros
+• Exportación de datos
+• Widget para la pantalla de inicio
+• Tema claro, oscuro o según el sistema
+• Disponible en español e inglés
+
+Todos los datos se almacenan localmente en el dispositivo y no es necesario crear una cuenta de usuario.

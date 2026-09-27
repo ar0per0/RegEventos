@@ -1,0 +1,1 @@
+Añadido soporte para el idioma inglés.
