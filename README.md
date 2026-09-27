@@ -1,3 +1,5 @@
+Proyecto construido con ChatGPT Codex.
+
 # RegEventos
 [Google Play](https://play.google.com/store/apps/details?id=es.aropero.regeventos&utm_source=emea_Med)
 
