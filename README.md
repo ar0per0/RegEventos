@@ -119,3 +119,11 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/ar0per0/RegEventos.git
 cd RegEventos
+```
+
+## Contacto
+
+Para informar de errores o contactar con el autor:
+
+- Issues: https://github.com/ar0per0/RegEventos/issues
+- Email: aropero214@gmail.com
