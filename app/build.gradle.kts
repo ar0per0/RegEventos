@@ -20,6 +20,14 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+    compileSdk {
+        version = release(36)
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = true
@@ -41,6 +49,7 @@ android {
         compose = true
     }
 }
+
 
 dependencies {
     implementation(libs.androidx.core.ktx)
